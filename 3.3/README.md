@@ -120,6 +120,7 @@ BowTiePlus |  ---  | :heavy_check_mark: | :heavy_check_mark: | ---
 HoneyGen |  ---  | --- | :heavy_check_mark: | --- 
 VTPin |  ---  | --- | :heavy_check_mark: | --- 
 Modssl-hmac |  ---  | --- | :heavy_check_mark:| --- 
+Lethe |  ---  | --- | :heavy_check_mark:| --- 
 SEMCO |  ---  | --- | :heavy_check_mark: | --- 
 
 --- | Collaborative Networks| Education & Training | Certification | Secure Platforms of Platforms | Infrastructure Protection | Holistic Data Protection | AI-based Security | Systems Security & Security Lifetime Management | Secure Architectures for Next Generation Communication | Secure Quantum Technologies | Secure AI Systems | Personalized Privacy Protection
@@ -135,4 +136,5 @@ BowTiePlus |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- 
 HoneyGen |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
 VTPin |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
 Modssl-hmac |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
+Lethe |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
 SEMCO |  ---  | --- | --- | --- |---| --- | --- | :heavy_check_mark: | --- | --- | --- | ---
